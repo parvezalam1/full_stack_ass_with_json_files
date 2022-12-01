@@ -1,0 +1,62 @@
+{
+    "0": {
+        "student_id": "1001",
+        "full_name": "soni",
+        "age": "10",
+        "DOB": "2012-03-22",
+        "school": "LEAD School Karmala",
+        "class": "3",
+        "division": "A",
+        "status": "inactive"
+    },
+    "1": {
+        "student_id": "1002",
+        "full_name": "rahul",
+        "age": "11",
+        "DOB": "2011-09-11",
+        "school": "LEAD School Karmala",
+        "class": "4",
+        "division": "A",
+        "status": "active"
+    },
+    "2": {
+        "student_id": "1003",
+        "full_name": "pooja",
+        "age": "13",
+        "DOB": "2009-07-25",
+        "school": "LEAD School Karmala",
+        "class": "5",
+        "division": "B",
+        "status": "active"
+    },
+    "3": {
+        "student_id": "1004",
+        "full_name": "raj",
+        "age": "9",
+        "DOB": "2013-04-19",
+        "school": "LEAD School Karmala",
+        "class": "2",
+        "division": "B",
+        "status": "active"
+    },
+    "4": {
+        "student_id": "1005",
+        "full_name": "zaid ahmad",
+        "age": "07",
+        "DOB": "2015-09-06",
+        "school": "LEAD School Karmala",
+        "class": "3",
+        "division": "A",
+        "status": "active"
+    },
+    "6": {
+        "student_id": "1006",
+        "full_name": "amit kumar",
+        "age": "8",
+        "DOB": "2014-07-20",
+        "school": "LEAD School Karmala",
+        "class": "2",
+        "division": "A",
+        "status": "active"
+    }
+}
